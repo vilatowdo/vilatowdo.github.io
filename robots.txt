@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vilatowdo.github.io/sitemap
+Sitemap: https://vilatowdo.github.io/app/sitemap
+Sitemap: https://vilatowdo.github.io/assets/sitemap
+Sitemap: https://vilatowdo.github.io/css/sitemap
+Sitemap: https://vilatowdo.github.io/includes/sitemap
+Sitemap: https://vilatowdo.github.io/item/sitemap
+Sitemap: https://vilatowdo.github.io/src/sitemap
